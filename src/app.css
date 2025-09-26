@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html, body {
+        @apply bg-neutral-900 text-neutral-300 antialiased;
+    }
+
+    html, body {
+        font-family: 'Inconsolata', sans-serif;
+        font-size: 16px;
+        line-height: 1.4em;
+        @apply selection:bg-[#4C82E8] selection:text-neutral-900 font-normal;
+    }
+
+    h1 {
+        @apply text-3xl font-semibold;
+    }
+
+    h2 {
+        @apply text-2xl font-semibold;
+    }
+
+    h3 {
+        @apply text-xl font-semibold;
+    }
+
+    .logotype {
+        font-family: "Arial Black", sans-serif;
+        @apply tracking-tight text-2xl text-[#4C82E8];
+    }
+
+    .section {
+        @apply my-0 mx-auto max-w-screen-2xl px-8;
+    }
+
+    .big-font {
+        font-family: Lora, serif;
+        @apply md:text-7xl text-5xl font-bold;
+    }
+
+    nav a {
+        @apply transition-all border-b border-b-transparent duration-300 ease-in-out text-lg tracking-wider;
+    }
+
+    nav a:hover {
+        @apply text-[#658ddd] ;
+    }
+
+    nav a.active {
+        @apply text-[#4C82E8] border-b-[#4C82E8];
+    }
+
+    p {
+        @apply leading-relaxed py-4;
+    }
+
+    .project-thumb {
+        background-size: cover;
+        filter: brightness(1.1)
+    }
+    
+    .project-thumb:hover {
+        filter: none
+    }
+
+    /* Custom scrollbar styling */
+    ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: #4C82E8;
+        border-radius: 6px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: #3b69bd;
+    }
+
+    ::-webkit-scrollbar-track {
+        background-color: #1e1e1e;
+    }
+
+}
+
+* {
+    outline: none;
+}
