@@ -109,15 +109,15 @@
     "title": "Vintage American Diner",
     "description": "This 3D project captures the nostalgic charm of a classic American diner, complete with vibrant red booths, neon signage, and checkerboard floors. The sleek design, retro décor, and cozy atmosphere transport you to the 1950s, showcasing attention to detail in every element—from the polished countertops to the vintage jukebox. A perfect blend of vintage aesthetic and modern rendering techniques.",
     "items": [
-      "http://localhost:5173/project-images/vintage-american-diner/original_959b7fc3069504cf40a2781447c6e116_OVJQ0v5RSz.jpg",
-      "http://localhost:5173/project-images/vintage-american-diner/original_c048cb24b5bd409a4cce71a13105c1cb_xNXtSFNZAv.jpg",
-      "http://localhost:5173/project-images/vintage-american-diner/original_dd482be9510e0490cdf0262e3f030920_llzcBvSTyM.jpg",
-      "http://localhost:5173/project-images/vintage-american-diner/original_5da199cdf946849d55e35787e3a231bd_NrTZu6yWqM.jpg",
-      "http://localhost:5173/project-images/vintage-american-diner/original_6571b16238ec0e956c2846fd341d28b3_0AHsWhNOaa.jpg",
-      "http://localhost:5173/project-images/vintage-american-diner/original_95457216bd9387bfc191b825bf9c5b91_ZkqylEdmeH.jpg",
-      "http://localhost:5173/project-images/vintage-american-diner/original_d31d9e5f6da2c73f7956b27a5193bac0_vxN4Px9Bwd.jpg"
+      "https://cdnb.artstation.com/p/assets/images/images/067/236/021/large/goofer-main.jpg?1694877907",
+      "https://cdna.artstation.com/p/assets/images/images/067/236/006/large/goofer-39634a161561137-63c748f999f07.jpg?1694877872",
+      "https://cdnb.artstation.com/p/assets/images/images/067/236/007/large/goofer-512174161561137-63c748f99ff23.jpg?1694877876",
+      "https://cdna.artstation.com/p/assets/images/images/067/236/004/large/goofer-240b72161561137-63c748f99ae2a.jpg?1694877868",
+      "https://cdna.artstation.com/p/assets/images/images/067/236/002/large/goofer-32e473161561137-63c748f99e142.jpg?1694877864",
+      "https://cdna.artstation.com/p/assets/images/images/067/236/010/large/goofer-e183e7161561137-63c748f99d161.jpg?1694877881",
+      "https://cdnb.artstation.com/p/assets/images/images/067/235/999/large/goofer-8d9669161561137-63c748f99bdf2.jpg?1694877860"
     ],
-    "preview": "http://localhost:5173/project-images/vintage-american-diner/original_959b7fc3069504cf40a2781447c6e116_OVJQ0v5RSz.jpg",
+    "preview": "https://cdnb.artstation.com/p/assets/images/images/067/236/021/smaller_square/goofer-main.jpg?1694877907",
     "slug": "vintage-american-diner",
     "isExternal": true,
     "used_tools": "Blender, Cycles, Adobe Substance Painter, Adobe Photoshop"
