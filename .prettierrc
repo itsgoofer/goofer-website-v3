@@ -7,5 +7,6 @@
   "useTabs": false,
   "svelteSortOrder": "options-scripts-markup-styles",
   "svelteStrictMode": true,
-  "arrowParens": "always"
+  "arrowParens": "always",
+  "bracketSameLine": true
 }

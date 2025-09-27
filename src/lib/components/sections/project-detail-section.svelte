@@ -18,13 +18,14 @@
 </script>
 
 <div class="section flex flex-col">
-  <h2 class="text-[#4C82E8] mb-2">
+  <h2 class="text-[#4C82E8] mb-2 border-b border-[#4C82E8]/30 md:border-none pb-3 md:pb-0">
     / <a href="/projects">projects /</a>
     <Scramble speed="50">{project.title}</Scramble>
   </h2>
-  <div class="mb-8 text-neutral-400 flex gap-2">
+  <div class="mb-8 text-neutral-400 md:flex gap-2">
+    <div class="md:hidden mb-2 text-[#4C82E8] font-bold">Tools used:</div>
     {#each project.used_tools.split(', ') as tool}
-      <div class="bg-orange-300/10 rounded px-[0.3em] text-[#4C82E8]">{tool}</div>
+      <div class="bg-orange-300/10 rounded px-[0.3em] md:mb-0 mb-2 text-[#4C82E8]">{tool}</div>
     {/each}
   </div>
   <div class="mb-2 max-w-[760px]">

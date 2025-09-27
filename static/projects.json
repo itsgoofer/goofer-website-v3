@@ -11,13 +11,13 @@
       "https://cdna.artstation.com/p/assets/images/images/092/199/412/4k/goofer-3d-leblanc-3-clay.jpg",
       "https://cdna.artstation.com/p/assets/images/images/092/199/414/4k/goofer-3d-leblanc-3-claymesh.jpg"
     ],
-    "preview": "https://cdna.artstation.com/p/assets/images/images/092/199/860/smaller_square/goofer-3d-leblanc-3-closecam2.jpg",
+    "preview": "https://cdnb.artstation.com/p/assets/images/images/092/201/275/smaller_square/goofer-3d-leblanc-3-facecam.jpg",
     "slug": "Leblanc-welcome-to-noxus",
     "used_tools": "ZBrush, Maya, XGen, Adobe Substance 3D Painter, Marmoset Toolbag 5, Photoshop",
     "isExternal": true
   },
   {
-    "title": "Katarina - Welcome to Noxus",
+    "title": "Katarina - Welcome to Noxus Rework",
     "description": "A ruthless Noxian assassin, feared for both her sharp instincts and unmatched skill in battle. As the eldest daughter of the renowned General Du Couteau, she quickly proved herself through precise and deadly strikes against unprepared foes. Her relentless drive pushes her to take on dangerous, heavily protected targets, even if it puts her allies at risk. No matter the cost, Katarina fulfills her missions without hesitation, leaving only a storm of blades in her wake.",
     "items": [
       "https://cdnb.artstation.com/p/assets/images/images/087/722/999/4k/g-designs-33.jpg",
@@ -30,81 +30,96 @@
     "isExternal": true
   },
   {
-    "description": "This sleek, modern living space embraces minimalism with clean lines, open design, and functional simplicity. The day scene emphasizes productivity with a work setup centered around the laptop, while the evening scene transitions to relaxation, featuring Netflix on the large-screen TV. The use of natural light by day and ambient lighting by night highlights the perfect balance between work and leisure in this refined, contemporary environment.",
-    "items": ["render1_gZXzNoFbAI.jpg", "night_render_rhVcBUgZ6S.jpg"],
-    "preview": "render1_gZXzNoFbAI.jpg",
-    "slug": "minimal-living-space",
-    "title": "Minimal Living Space",
-    "used_tools": "Blender, Cycles, Adobe Photoshop"
+    "title": "Katarina - Clay Renders",
+    "description": "A ruthless Noxian assassin, feared for both her sharp instincts and unmatched skill in battle. As the eldest daughter of the renowned General Du Couteau, she quickly proved herself through precise and deadly strikes against unprepared foes. Her relentless drive pushes her to take on dangerous, heavily protected targets, even if it puts her allies at risk. No matter the cost, Katarina fulfills her missions without hesitation, leaving only a storm of blades in her wake.",
+    "items": [
+      "https://cdnb.artstation.com/p/assets/images/images/087/415/375/4k/g-designs-1.jpg",
+      "https://cdna.artstation.com/p/assets/images/images/087/415/376/4k/g-designs-2.jpg",
+      "https://cdnb.artstation.com/p/assets/images/images/087/415/377/4k/g-designs-3.jpg?1745745653"
+    ],
+    "preview": "https://cdna.artstation.com/p/assets/covers/images/087/415/634/smaller_square/g-designs-g-designs-thumb.jpg",
+    "slug": "katarina-clay-render",
+    "used_tools": "ZBrush, Maya, XGen, Marmoset Toolbag 5, Photoshop",
+    "isExternal": true
   },
   {
+    "title": "Minimal Living Space",
+    "description": "This sleek, modern living space embraces minimalism with clean lines, open design, and functional simplicity. The day scene emphasizes productivity with a work setup centered around the laptop, while the evening scene transitions to relaxation, featuring Netflix on the large-screen TV. The use of natural light by day and ambient lighting by night highlights the perfect balance between work and leisure in this refined, contemporary environment.",
+    "items": [
+      "https://cdna.artstation.com/p/assets/images/images/071/582/526/4k/synthframe-designs-render1.jpg",
+      "https://cdnb.artstation.com/p/assets/images/images/071/582/525/4k/synthframe-designs-night-render.jpg"
+    ],
+    "preview": "https://cdna.artstation.com/p/assets/images/images/071/582/526/smaller_square/synthframe-designs-render1.jpg",
+    "slug": "minimal-living-space",
+    "used_tools": "Blender, Cycles, Adobe Photoshop",
+    "isExternal": true
+  },
+  {
+    "title": "Botanical Super-lab",
     "description": "This futuristic botanic lab combines sleek design with cutting-edge technology. The supercomputer processing unit is integrated into the floor panel, overseeing the lab's advanced systems. Day and night lighting emphasize the contrast between organic research and high-tech innovation, creating a perfect balance between nature and science in this forward-looking facility.",
     "items": [
-      "render_no_fog01_PflorxnSmt.jpg",
-      "render_dark_M0KnBXA1TP.jpg",
-      "clay_render_lKRqKlnalN.jpg"
+      "https://cdna.artstation.com/p/assets/images/images/070/549/178/4k/synthframe-designs-rendernofog01.jpg",
+      "https://cdnb.artstation.com/p/assets/images/images/070/549/175/4k/synthframe-designs-renderdark.jpg?1702827295",
+      "https://cdna.artstation.com/p/assets/images/images/070/549/174/4k/synthframe-designs-clayrender.jpg?1702827289"
     ],
-    "preview": "render_dark_M0KnBXA1TP.jpg",
+    "preview": "https://cdna.artstation.com/p/assets/images/images/070/549/178/smaller_square/synthframe-designs-rendernofog01.jpg?1702827301",
     "slug": "botanical-super-lab",
-    "title": "Botanical Super-lab",
+    "isExternal": true,
     "used_tools": "Blender, Cycles, Adobe Photoshop"
   },
   {
-    "description": "This modern gelateria features a stylish and inviting layout, perfect for any time of day. During the day, natural light fills the space, emphasizing the sleek countertops and colorful ice cream display. As evening falls, the glowing neon signs and soft lighting create a warm, cozy atmosphere. The minimalist design, combined with playful accents, makes this gelateria a delightful stop for anyone craving a treat, whether it's in the bright daylight or under the glowing ambiance of night.",
-    "items": ["render_dark_6uC5L594Sz.jpg", "render_eXhBwk071f.jpg", "render_clay_m0JTjXxn9o.jpg"],
-    "preview": "render_dark_6uC5L594Sz.jpg",
-    "slug": "gelateria-indoors",
     "title": "Gelateria (Indoors version)",
+    "description": "This modern gelateria features a stylish and inviting layout, perfect for any time of day. During the day, natural light fills the space, emphasizing the sleek countertops and colorful ice cream display. As evening falls, the glowing neon signs and soft lighting create a warm, cozy atmosphere. The minimalist design, combined with playful accents, makes this gelateria a delightful stop for anyone craving a treat, whether it's in the bright daylight or under the glowing ambiance of night.",
+    "items": [
+      "https://cdnb.artstation.com/p/assets/images/images/071/582/433/4k/synthframe-designs-render.jpg?1705494912",
+      "https://cdna.artstation.com/p/assets/images/images/071/582/442/4k/synthframe-designs-render-dark.jpg?1705494924",
+      "https://cdnb.artstation.com/p/assets/images/images/071/582/439/4k/synthframe-designs-render-clay.jpg?1705494918"
+    ],
+    "preview": "https://cdnb.artstation.com/p/assets/images/images/071/582/433/smaller_square/synthframe-designs-render.jpg?1705494912",
+    "slug": "gelateria-indoors",
+    "isExternal": true,
     "used_tools": "Blender, Cycles, Adobe Photoshop"
   },
   {
+    "title": "Gelateria",
     "description": "This charming Italian-style gelateria captures the essence of a traditional neighborhood spot. With its pastel-colored facade, striped awning, and Vespa parked out front, it invites visitors to enjoy a scoop under the colorful umbrellas. The lush greenery and terracotta roof tiles add to the authentic Mediterranean feel, making it the perfect place to relax and savor a sweet treat, whether basking in the warm daylight or enjoying the cozy ambiance of evening.",
     "items": [
-      "render03_y8juHi6FXU.jpg",
-      "render04_night_PaCL3e1lgd.jpg",
-      "clay_render_iMjpNZNL0l.jpg"
+      "https://cdna.artstation.com/p/assets/images/images/071/582/358/4k/synthframe-designs-render03.jpg?1705494839",
+      "https://cdna.artstation.com/p/assets/images/images/071/582/368/4k/synthframe-designs-render04night.jpg?1705494844",
+      "https://cdna.artstation.com/p/assets/images/images/071/582/354/4k/synthframe-designs-clayrender.jpg?1705494833"
     ],
-    "preview": "render04_night_PaCL3e1lgd.jpg",
+    "preview": "https://cdna.artstation.com/p/assets/images/images/071/582/358/smaller_square/synthframe-designs-render03.jpg?1705494839",
     "slug": "gelateria",
-    "title": "Gelateria",
+    "isExternal": true,
     "used_tools": "Blender, Cycles, Adobe Photoshop"
   },
   {
+    "title": "Modern kitchen with a vintage twist",
     "description": "This modern kitchen design blends sleek, contemporary elements with a nostalgic touch, thanks to the retro-inspired fridge. The morning light gives the space a fresh, inviting feel, while the afternoon glow highlights the warmth of the wooden floors and cabinetry. It's a functional yet cozy space, perfect for cooking or simply enjoying a cup of coffee in a beautifully designed environment.",
     "items": [
-      "original_6110c0fb30e76daefcae8f672b9c85be_lf2_nkl6_pi_s_QCvk9KAOvd.jpg",
-      "original_48aafc39d6976fb83a63f6a65e3167ae_GfKfxyiuQf.jpg"
+      "https://cdnb.artstation.com/p/assets/images/images/067/236/131/large/goofer-main.jpg?1694878178",
+      "https://cdnb.artstation.com/p/assets/images/images/067/236/129/large/goofer-d3fd42159590505-63a1c6fa8bc9b.jpg?1694878174"
     ],
-    "preview": "original_6110c0fb30e76daefcae8f672b9c85be_lf2_nkl6_pi_s_QCvk9KAOvd.jpg",
+    "preview": "https://cdnb.artstation.com/p/assets/images/images/067/236/131/smaller_square/goofer-main.jpg?1694878178",
     "slug": "modern-kitchen",
-    "title": "Modern kitchen with a vintage twist",
+    "isExternal": true,
     "used_tools": "Cinema 4D, Redshift, Adobe Photoshop"
   },
   {
+    "title": "Vintage American Diner",
     "description": "This 3D project captures the nostalgic charm of a classic American diner, complete with vibrant red booths, neon signage, and checkerboard floors. The sleek design, retro décor, and cozy atmosphere transport you to the 1950s, showcasing attention to detail in every element—from the polished countertops to the vintage jukebox. A perfect blend of vintage aesthetic and modern rendering techniques.",
     "items": [
-      "original_959b7fc3069504cf40a2781447c6e116_OVJQ0v5RSz.jpg",
-      "original_c048cb24b5bd409a4cce71a13105c1cb_xNXtSFNZAv.jpg",
-      "original_dd482be9510e0490cdf0262e3f030920_llzcBvSTyM.jpg",
-      "original_5da199cdf946849d55e35787e3a231bd_NrTZu6yWqM.jpg",
-      "original_6571b16238ec0e956c2846fd341d28b3_0AHsWhNOaa.jpg",
-      "original_95457216bd9387bfc191b825bf9c5b91_ZkqylEdmeH.jpg",
-      "original_d31d9e5f6da2c73f7956b27a5193bac0_vxN4Px9Bwd.jpg"
+      "http://localhost:5173/project-images/vintage-american-diner/original_959b7fc3069504cf40a2781447c6e116_OVJQ0v5RSz.jpg",
+      "http://localhost:5173/project-images/vintage-american-diner/original_c048cb24b5bd409a4cce71a13105c1cb_xNXtSFNZAv.jpg",
+      "http://localhost:5173/project-images/vintage-american-diner/original_dd482be9510e0490cdf0262e3f030920_llzcBvSTyM.jpg",
+      "http://localhost:5173/project-images/vintage-american-diner/original_5da199cdf946849d55e35787e3a231bd_NrTZu6yWqM.jpg",
+      "http://localhost:5173/project-images/vintage-american-diner/original_6571b16238ec0e956c2846fd341d28b3_0AHsWhNOaa.jpg",
+      "http://localhost:5173/project-images/vintage-american-diner/original_95457216bd9387bfc191b825bf9c5b91_ZkqylEdmeH.jpg",
+      "http://localhost:5173/project-images/vintage-american-diner/original_d31d9e5f6da2c73f7956b27a5193bac0_vxN4Px9Bwd.jpg"
     ],
-    "preview": "original_959b7fc3069504cf40a2781447c6e116_OVJQ0v5RSz.jpg",
+    "preview": "http://localhost:5173/project-images/vintage-american-diner/original_959b7fc3069504cf40a2781447c6e116_OVJQ0v5RSz.jpg",
     "slug": "vintage-american-diner",
-    "title": "Vintage American Diner",
+    "isExternal": true,
     "used_tools": "Blender, Cycles, Adobe Substance Painter, Adobe Photoshop"
-  },
-  {
-    "description": "This abstract motion graphic piece features a mesmerizing hexagonal crystal, its sharp lines and subtle scratches lending a touch of realism to the otherwise sleek form. As light refracts and dances across its surface, the play of colors and reflections draws you into its captivating beauty. The imperfections add character, while the overall aesthetic balances between the precision of geometry and the organic allure of natural imperfections, making it a visually striking and hypnotic experience.",
-    "items": [
-      "original_ba646cf496b5e71577215d9a303b3b0b_LYIlNPERdo.mp4",
-      "original_3a8a1de47206c682f3e21f275c684740_jbCu8s0vgZ.jpg"
-    ],
-    "preview": "preview.jpg",
-    "slug": "prismatic-precision",
-    "title": "Prismatic Precision",
-    "used_tools": "Cinema 4D, Redshift, Davinci Resolve"
   }
 ]

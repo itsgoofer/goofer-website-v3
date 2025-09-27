@@ -3,7 +3,8 @@
   import Logo from './logo.svelte'
 </script>
 
-<header class="section flex md:flex-row flex-col md:items-center md:justify-between py-6 mb-6">
+<header
+  class="section flex md:flex-row flex-col items-center md:items-center md:justify-between py-6 mb-6">
   <Logo />
   <MainMenu />
 </header>

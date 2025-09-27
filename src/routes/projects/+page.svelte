@@ -23,7 +23,7 @@
     </div>
   {:then projects}
     <div class="section mt-12">
-      <div class="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-3 grid-cols-2 gap-4">
+      <div class="grid xl:grid-cols-5 lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4">
         <ProjectThumbnail data="{projects}" />
       </div>
     </div>
