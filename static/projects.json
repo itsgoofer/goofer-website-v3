@@ -14,7 +14,8 @@
     "preview": "https://cdnb.artstation.com/p/assets/images/images/092/201/275/smaller_square/goofer-3d-leblanc-3-facecam.jpg",
     "slug": "Leblanc-welcome-to-noxus",
     "used_tools": "ZBrush, Maya, XGen, Adobe Substance 3D Painter, Marmoset Toolbag 5, Photoshop",
-    "isExternal": true
+    "isExternal": true,
+    "disabled": true
   },
   {
     "title": "Katarina - Welcome to Noxus Rework",
